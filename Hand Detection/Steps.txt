@@ -1,0 +1,4 @@
+HAND - DETECTION
+        -> WEB CAM (LIVE)
+        -> CENTER TRACKING
+        -> Replicate this onto the animated image

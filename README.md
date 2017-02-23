@@ -4,13 +4,13 @@ In computer animation, it is very essential to give a human touch to the charact
   1. Waving a hand
   2. Raising eyebrows
 <br />
-# Input: 
+Input: 
   The input is human movement and it will be captured using a camera (or kinect). The movement can also be given as a series of images which demonstrate movement (gradual change in the position of the object), also known as a time lapse.
 <br />
-# Output: 
+Output: 
   The output will be similar movement expressed by a virtual object (to be animated). Initially identifying the changes in the position is to be achieved, following which the transition between the changes should be mapped onto a function and finally, the movement should be expressed by the virtual object.
 <br />
-# Performance measurement criteria: 
+Performance measurement criteria: 
   Performance can be determined by measuring the accuracy with which the motion is replicated.
 
 # References 

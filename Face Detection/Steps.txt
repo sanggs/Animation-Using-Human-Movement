@@ -1,0 +1,8 @@
+EYEBROW - DETECT 
+            -> FOR STATIC IMAGES - CHANGE ALL GETTING DETECTED TO ONLY EYEBROW
+            
+            -> GET VIDEO OF EYEBROW MOVEMENT
+            -> EXTRACT KEYFRAMES
+            -> COMPARE THEM AND GET CHANGES => GET ALL POINTS THAT CHANGE (Is this the right way to extract motion from still frames?)
+            -> GET A FUNCTION THAT SATISFIES ALL THESE POINTS (HOW?)
+            -> Replicate this onto the animated imaage
